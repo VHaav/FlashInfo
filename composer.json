@@ -1,5 +1,5 @@
 {
-    "name": "vhaa/FlashInfo",    
+    "name": "vhaa/flash-info",    
     "type": "library",
     "description": "PHP class for creating flash messages",
     "keywords": ["flash", "message"],
